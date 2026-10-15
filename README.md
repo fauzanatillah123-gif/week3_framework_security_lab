@@ -1,4 +1,4 @@
-# Week 3 — Framework Security Update Lab
+# Week 3: Framework Security Update Lab
 
 Repository ini berisi praktikum **Hands-On Pertemuan 3** tentang keamanan aplikasi web. Praktikum membandingkan aplikasi dengan konfigurasi keamanan dasar (*baseline*) dan versi yang telah diperbaiki (*secure*) untuk memahami pentingnya validasi output, security headers, serta pemeriksaan dependensi.
 
